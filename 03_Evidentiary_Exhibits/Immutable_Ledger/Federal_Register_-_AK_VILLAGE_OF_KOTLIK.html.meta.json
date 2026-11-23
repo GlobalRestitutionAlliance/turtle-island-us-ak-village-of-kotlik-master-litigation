@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+VILLAGE+OF+KOTLIK",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+VILLAGE+OF+KOTLIK",
+  "title": "Federal Register - AK VILLAGE OF KOTLIK",
+  "fetched_at": "2026-11-23T17:30:46.977740Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 222502,
+  "sha256": "52830742408cc6807b1a63f0422ca956fadc3e139780a76fd106855c2183bc3b",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
